@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trần Tuấn Anh</h1>
-<h3 align="center">I’m a full-stack developer from Vietnamese</h3>
+<h3 align="center">I’m a front-end and back-end developer from Vietnamese</h3>
 
 Hello everyone, my name is Tran Tuan Anh.  
 I'm a third-year student of Software Engineering at the University of Foreign Languages and IT in HCMC.  
