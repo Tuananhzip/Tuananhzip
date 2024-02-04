@@ -2,7 +2,7 @@
 <h3 align="center">I’m a front-end and back-end developer from Vietnamese</h3>
 
 Hello everyone, my name is Tran Tuan Anh.  
-I'm a third-year student of Software Engineering at the University of Foreign Languages and IT in HCMC.  
+I'm a final year student of Software Engineering at the University of Foreign Languages and IT in HCMC.  
 I aspire to become a DevOps expert because I find it fascinating and challenging, requiring a combination of coding and system management.  
 I have knowledge of both frontend and backend, and I can use various languages and tools for programming.
 
